@@ -1,2 +1,2 @@
 # Projects
-All Data Analytics Projects I have worked on.
+All Analytical Projects I have worked on in Microsoft Excel.
