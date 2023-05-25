@@ -1,2 +1,2 @@
 # Projects
-All Analytical Projects I have worked on in Microsoft Excel.
+All Analytical Projects I have worked on using Microsoft Excel.
